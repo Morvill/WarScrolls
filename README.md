@@ -1,2 +1,7 @@
 # WarScrolls
-WarScrolls - World of Warcraft location patches that show Azeroth of the First War.
+WarScrolls - новые карты-патчи для World of Warcraft, которые показывают Азерот времён Первой Войны между людьми и орками.
+
+Чтобы посмотреть патчи, необходимо скопировать все adt файлы в папки КлиентWoW335\world\maps\azeroth (перечисленные папки нужно создать в корневой папке WoW 3.3.5a). 
+Затем необходимо скопировать в папку с игрой Wow_patched_no_mpq_needed.exe и запускать игру через него. 
+
+http://warscrolls.ru/

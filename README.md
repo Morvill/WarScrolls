@@ -11,4 +11,7 @@ https://mega.co.nz/#!yNRxxYpT!XbVr0DC8MBjF_hqrOqA1A2rd3Kxi4hi83TEVmEiq2r0
 Ссылка на гайд по работе с GitHub:
 https://docs.google.com/document/d/1AOINxieyRs-F2OUmaDM9BPbsfJ9i8UOhnDqkprUvnes/
 
+Гайд по освящению:
+https://docs.google.com/document/d/1-lsf57B_DIzwqUCLawM7aH1cpPlWRW-tWp4CRaPTrSU/
+
 http://warscrolls.ru/
